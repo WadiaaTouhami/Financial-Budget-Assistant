@@ -34,7 +34,7 @@ Set your Gemini_API_KEY value in the main.py file.
 $ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ```
 
-## Run the streamlit app
+## Run the streamlit app in another terminal
 
 ```bash
 $ streamlit run streamlit_app.py
